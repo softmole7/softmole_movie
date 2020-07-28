@@ -1,22 +1,22 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3592aa8913e08e891efa8e83d09e23d2",
+    "revision": "52595df5ff9c9bcc9de7cb6b11f9bf62",
     "url": "/softmole_movie/index.html"
   },
   {
-    "revision": "4577492e3fd00e4d3bdd",
-    "url": "/softmole_movie/static/css/2.7ca9443e.chunk.css"
+    "revision": "a986111fb01b16f22c32",
+    "url": "/softmole_movie/static/css/2.c082cdd3.chunk.css"
   },
   {
-    "revision": "47f687d8921577eb102a",
-    "url": "/softmole_movie/static/css/main.59d11b50.chunk.css"
+    "revision": "10698daebd04a8c231ec",
+    "url": "/softmole_movie/static/css/main.dbae74c8.chunk.css"
   },
   {
-    "revision": "4577492e3fd00e4d3bdd",
+    "revision": "a986111fb01b16f22c32",
     "url": "/softmole_movie/static/js/2.212b8265.chunk.js"
   },
   {
-    "revision": "47f687d8921577eb102a",
+    "revision": "10698daebd04a8c231ec",
     "url": "/softmole_movie/static/js/main.0e14aa2f.chunk.js"
   },
   {

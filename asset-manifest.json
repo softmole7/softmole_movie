@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/softmole_movie/static/css/main.59d11b50.chunk.css",
+    "main.css": "/softmole_movie/static/css/main.dbae74c8.chunk.css",
     "main.js": "/softmole_movie/static/js/main.0e14aa2f.chunk.js",
     "main.js.map": "/softmole_movie/static/js/main.0e14aa2f.chunk.js.map",
     "runtime~main.js": "/softmole_movie/static/js/runtime~main.7701a75e.js",
     "runtime~main.js.map": "/softmole_movie/static/js/runtime~main.7701a75e.js.map",
-    "static/css/2.7ca9443e.chunk.css": "/softmole_movie/static/css/2.7ca9443e.chunk.css",
+    "static/css/2.c082cdd3.chunk.css": "/softmole_movie/static/css/2.c082cdd3.chunk.css",
     "static/js/2.212b8265.chunk.js": "/softmole_movie/static/js/2.212b8265.chunk.js",
     "static/js/2.212b8265.chunk.js.map": "/softmole_movie/static/js/2.212b8265.chunk.js.map",
     "index.html": "/softmole_movie/index.html",
-    "precache-manifest.37b9861200b0eb10ee38e92ca876ac4b.js": "/softmole_movie/precache-manifest.37b9861200b0eb10ee38e92ca876ac4b.js",
+    "precache-manifest.149af2fb94d3b2167ac10269e0de9c75.js": "/softmole_movie/precache-manifest.149af2fb94d3b2167ac10269e0de9c75.js",
     "service-worker.js": "/softmole_movie/service-worker.js",
-    "static/css/2.7ca9443e.chunk.css.map": "/softmole_movie/static/css/2.7ca9443e.chunk.css.map",
-    "static/css/main.59d11b50.chunk.css.map": "/softmole_movie/static/css/main.59d11b50.chunk.css.map",
+    "static/css/2.c082cdd3.chunk.css.map": "/softmole_movie/static/css/2.c082cdd3.chunk.css.map",
+    "static/css/main.dbae74c8.chunk.css.map": "/softmole_movie/static/css/main.dbae74c8.chunk.css.map",
     "static/media/index.scss": "/softmole_movie/static/media/slick.f97e3bbf.svg"
   }
 }
