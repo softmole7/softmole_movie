@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3aae361662ef5b6c1deab14ee6845088",
+    "revision": "3592aa8913e08e891efa8e83d09e23d2",
     "url": "/softmole_movie/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/softmole_movie/static/css/2.7ca9443e.chunk.css"
   },
   {
-    "revision": "6b422aaf49c1c0f30347",
+    "revision": "47f687d8921577eb102a",
     "url": "/softmole_movie/static/css/main.59d11b50.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/softmole_movie/static/js/2.212b8265.chunk.js"
   },
   {
-    "revision": "6b422aaf49c1c0f30347",
-    "url": "/softmole_movie/static/js/main.20691365.chunk.js"
+    "revision": "47f687d8921577eb102a",
+    "url": "/softmole_movie/static/js/main.0e14aa2f.chunk.js"
   },
   {
     "revision": "5fe38e76efb0351013a0",
