@@ -2,7 +2,7 @@
   "name": "softmole_movie",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://softmole7.github.io/softmole_movie/",
+  "homepage": "https://softmole7.github.io/softmole_movie",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
