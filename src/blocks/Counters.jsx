@@ -1,5 +1,4 @@
 import React from 'react'
-import TeamOne from "./team/TeamOne";
 import PageHelmet from "../component/common/Helmet";
 import Breadcrumb from "../elements/common/Breadcrumb";
 import ScrollToTop from 'react-scroll-up';
@@ -7,6 +6,7 @@ import { FiChevronUp } from "react-icons/fi";
 import Header from "../component/header/Header";
 import CounterOne from "../elements/counters/CounterOne";
 import CounterTwo from "../elements/counters/CounterTwo";
+// import TeamOne from "./team/TeamOne";
 
 import Footer from "../component/footer/Footer";
 
