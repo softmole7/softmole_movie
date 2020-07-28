@@ -1,7 +1,8 @@
 {
   "name": "softmole_movie",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://softmole7.github.io/softmole_movie/",
   "basename": "/",
   "dependencies": {
     "@babel/core": "7.4.3",
@@ -156,6 +157,5 @@
     "presets": [
       "react-app"
     ]
-  },
-  "homepage": "https://softmole7.github.io/softmole_movie/"
+  }
 }
